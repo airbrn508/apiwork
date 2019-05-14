@@ -1,0 +1,16 @@
+---
+- name: My first playbook
+  hosts: localhost
+
+  tasks:
+  - name: deploy software from aptitude repository
+    apt:
+      name: bastet
+      state: present
+    become: yes
+    register: results
+
+  - name: print to screen our results variable
+    debug:
+      var: results
+
