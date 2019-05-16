@@ -1,0 +1,5 @@
+name,ipaddress,service,port
+dumbledore,192.168.70.1,objectstorage,54231
+hermione,192.168.1.1,blockstorage,12123
+hagrid,10.0.0.1,compute,44321
+harry,72.66.33.2,networking,44231

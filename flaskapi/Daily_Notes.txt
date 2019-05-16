@@ -1,0 +1,21 @@
+Monday, October 29, 2018
+  -  Created to new tables in SPC.DB nrb_hourly_total_trans_ldapwebgw and nrb_busy_hour_tps_webgw
+  -  
+
+Tuesday, October 30, 2018
+  -  
+
+
+Wednesday, October 31, 2018
+  -  
+
+
+Thursday, November 1, 2018
+  -  
+
+  
+Friday, November 2, 2018
+  -  
+
+	   
+  
